@@ -7,5 +7,5 @@ $$ cd cache-js
 $$ npm install
 ```
 
-cache.js - Is simple the In Memory Cache in Javascript
+cache.js - Is simple the In Memory Cache in Javascript  
 externalAPI.js - API definition to communicate with cache
