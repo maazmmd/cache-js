@@ -1,0 +1,11 @@
+{
+  "name": "node-todo",
+  "version": "0.0.0",
+  "description": "Simple Cache",
+  "main": "src/cache.js",
+  "author": "Mohammed Maaz",
+  "dependencies": {
+    "qwest": "^0.4.0"
+  }
+}
+
